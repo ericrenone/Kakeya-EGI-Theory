@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Kakeya AGI Simulator** is a **first-principles framework** demonstrating how **emergent general intelligence** arises from **deterministic streaming neural computation**.  
+The **Kakeya AGI** is a **first-principles framework** demonstrating how **emergent general intelligence** arises from **deterministic streaming neural computation**.  
 
 - Multiple pre-trained LLMs are represented as **weight stick bundles**.  
 - These sticks are **relationally defined and novelty-activated**: they exist only in response to new, surprising inputs.  

@@ -102,9 +102,11 @@ Modern GPU-centric architectures optimize:
 
 Even with sparsity tricks, GPUs assume:
 
-**fetch weights → compute → write back**
+> **fetch weights → compute → write back**
 
-**Kakeya AGI proves:** nothing exists unless **novelty demands it**.
+Kakeya AGI assume:
+
+> ** nothing exists unless **novelty demands it**.
 
 | Property | GPU Paradigm | Kakeya AGI |
 |----------|--------------|------------|

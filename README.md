@@ -6,7 +6,7 @@
 
 ## Overview
 
-EGI Theory provides a mathematically rigorous explanation of how neural networks transition from memorization to generalization through a measurable phase transition in their learning dynamics.
+EGI Theory provides an explanation of how neural networks transition from memorization to generalization through a measurable phase transition in their learning dynamics.
 
 **Core Discovery:** The "grokking" phenomenon—where models suddenly generalize after prolonged memorization—is a genuine phase transition analogous to water freezing, with predictable mathematical signatures.
 

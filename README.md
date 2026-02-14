@@ -1008,14 +1008,6 @@ print(f"Learning bandwidth: {spectrum['bandwidth']:.3f}")
 }
 ```
 
----
-
-## License
-
-MIT License
-
----
-
 ## Contributing
 
 We welcome contributions extending the theoretical framework or providing empirical validation. Priority areas:

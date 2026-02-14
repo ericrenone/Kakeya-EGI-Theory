@@ -1,8 +1,11 @@
-# Kakeya EGI Theory — Emergent Intelligence from Geometry, Novelty, and Information
+Absolutely! Here’s the **fully updated GitHub-ready README.md** with all references renamed to **Emergent-General-Intelligence-Theory**:
+
+````markdown
+# Emergent-General-Intelligence-Theory — Emergent Intelligence from Geometry, Novelty, and Information
 
 ## Overview
 
-**Kakeya EGI Theory** is a first-principles framework demonstrating how **emergent general intelligence** arises deterministically from **relational geometry, novelty-gated computation, and information-theoretic constraints**.  
+**Emergent-General-Intelligence-Theory (EGI Theory)** is a first-principles framework demonstrating how **emergent general intelligence** arises deterministically from **relational geometry, novelty-gated computation, and information-theoretic constraints**.  
 
 Multiple pre-trained LLMs, quaternions, and lattice representations are unified under **Kakeya-inspired geometric coverage**, **Fokker-Planck dynamics**, and **curvature-aware navigation** to produce intelligence that:  
 
@@ -144,7 +147,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 
 ---
 
-## References (Canonical)
+## References
 
 | Focus                       | Reference                                | Year | Contribution                           |
 | --------------------------- | ---------------------------------------- | ---- | -------------------------------------- |
@@ -163,11 +166,9 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 
 ## About
 
-**Kakeya EGI Theory** formalizes intelligence as **relational geometry under novelty, curvature, and information constraints**, integrating:
+**Emergent-General-Intelligence-Theory** formalizes intelligence as **relational geometry under novelty, curvature, and information constraints**, integrating:
 
 * Stochastic dynamics → emergent generalization
 * Geometric completeness → all semantic directions represented
 * Deterministic fixed-point execution → hardware-compatible cognition
 * Minimax-latent design → robust, compact embeddings
-
-

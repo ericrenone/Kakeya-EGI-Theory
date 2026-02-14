@@ -1,4 +1,4 @@
-# Kakeya AGI Theory — Emergent Intelligence from Geometry, Novelty, and Information
+# Kakeya EGI Theory — Emergent Intelligence from Geometry, Novelty, and Information
 
 ## Overview
 

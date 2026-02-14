@@ -1,5 +1,4 @@
 # General Theory of Intelligence (GTI)
-## A Unified Physics Framework for Deep Learning
 
 ---
 

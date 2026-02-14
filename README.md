@@ -1,6 +1,6 @@
 # Kakeya EGI Theory — Streaming LLM Stick Bundles with Novelty-Gated Adaptive Learning
 
-Kakeya AGI provides a **first-principles framework for emergent general intelligence**, integrating **relational neural computation, novelty-gated adaptive learning, fixed-point determinism**, and **geometric coverage of high-dimensional representation spaces**.
+Kakeya EGI provides a **first-principles framework for emergent general intelligence**, integrating **relational neural computation, novelty-gated adaptive learning, fixed-point determinism**, and **geometric coverage of high-dimensional representation spaces**.
 
 Computation arises from **stick bundles** — principal geometric directions extracted from pre-trained LLMs — that **exist only by relational activation and are triggered solely by novelty**. Emergent intelligence is observed as a global phenomenon arising from strictly local novelty events, formalized through **stochastic differential equations, Fokker-Planck dynamics, criticality thresholds, and Kramers’ escape rates**.
 
